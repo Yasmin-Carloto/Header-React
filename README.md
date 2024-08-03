@@ -1,8 +1,22 @@
-# React + Vite
+# Header React
+Esse projeto foi desenvolvido como uma das atividades da Trilha síncrona de 6 meses de Desenvolvedor Jr. da +PraTi. Foi feito para a aprendizagem de componentização usando React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Acessar o Header React
+O Header está hospedado no Github Pages neste link: []()
 
-Currently, two official plugins are available:
+## Tecnologias usadas no projeto
+* React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Rodar o projeto em sua máquina
+
+1. Coloque no terminal:
+```
+git clone 
+```
+
+2. Abrir com o VS CODE (ou IDE de preferência)
+
+3. Digitar no terminal do diretório do projeto: 
+```
+npm run dev
+```
