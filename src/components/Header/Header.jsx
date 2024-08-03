@@ -2,6 +2,7 @@
 /* eslint-disable react/prop-types */
 import "./Header.css"
 import { useState } from "react"
+import reactLogo from "../../assets/react.svg"
 
 const Header = ({tabs, changeContent}) => {
     const [tab, setTab] = useState(tabs[0].title)
@@ -17,7 +18,7 @@ const Header = ({tabs, changeContent}) => {
 
             <nav className="nav-container">
                 <div className="logo-container">
-                    <img src="/src/assets/react.svg" alt="React logo"/>
+                    <img src={reactLogo} alt="React logo"/>
                     <h1>React</h1>
                 </div>
                 
