@@ -3,6 +3,7 @@ import "./PagePattern.css"
 import { useState } from "react"
 import Header from "../Header/Header"
 import Content from "../Content/Content"
+import Footer from "../Footer/Footer"
 
 const PagePattern = () => {
     const [tabsList] = useState([
@@ -30,6 +31,8 @@ const PagePattern = () => {
             <Content
                 contentText={tabContent}
             />
+
+            <Footer link="https://github.com/Yasmin-Carloto" developer="Yasmin Carlôto"/>
         </body>
     )
 }
