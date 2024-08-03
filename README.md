@@ -2,7 +2,7 @@
 Esse projeto foi desenvolvido como uma das atividades da Trilha síncrona de 6 meses de Desenvolvedor Jr. da +PraTi. Foi feito para a aprendizagem de componentização usando React.
 
 ## Acessar o Header React
-O Header está hospedado no Github Pages neste link: []()
+O Header está hospedado no Github Pages neste link: [https://header-react-ruby.vercel.app](https://header-react-ruby.vercel.app)
 
 ## Tecnologias usadas no projeto
 * React
@@ -11,7 +11,7 @@ O Header está hospedado no Github Pages neste link: []()
 
 1. Coloque no terminal:
 ```
-git clone 
+git clone https://github.com/Yasmin-Carloto/Header-React.git
 ```
 
 2. Abrir com o VS CODE (ou IDE de preferência)
