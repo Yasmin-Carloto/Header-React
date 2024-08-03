@@ -3,7 +3,9 @@ import "./Content.css"
 
 const Content = ({contentText}) => {
     return (
-        <p className="content">{contentText}</p>
+        <main className="content-container">
+            {contentText}
+        </main>
     )
 }
 
